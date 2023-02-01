@@ -12,6 +12,11 @@
 - Can view their issued book only with expiry date and fine(if there any otherwise 0)
 ---
 
+## TECHNOLOGIES USED
+- Frontend: HTML, CSS, Js.
+- Backend: Python Backend Django
+- Database: DBSQLite
+
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
